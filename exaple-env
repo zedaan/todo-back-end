@@ -1,0 +1,4 @@
+HOST=localhost
+PORT=27017
+PASSWORD=
+DB_BAME=test
